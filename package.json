@@ -1,0 +1,22 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "A responsive portfolio using SASS, HTML5 and CCS3 ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOSEJ94/modern_portfolio.git"
+  },
+  "author": "Jose Rojas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JOSEJ94/modern_portfolio/issues"
+  },
+  "homepage": "https://github.com/JOSEJ94/modern_portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
